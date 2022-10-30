@@ -1,7 +1,9 @@
 ### Hi there my name is Roni Mazor 👋
 
 **a Junior Full-stack/Frontend developer,on my way to my first job.**
+
 Proficient in building end to end single-page apps with the following technologies:
+
 Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,TypeScript,SASS,express.js,socket.io aswell as working with git.
 
 **A litle about me**
