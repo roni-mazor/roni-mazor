@@ -4,7 +4,7 @@
 
 Proficient in building end to end single-page apps with the following technologies:
 
-Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,REST API,SASS,express.js,socket.io,TypeScript aswell as working with git.
+Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,REST API,SASS,express.js,socket.io,MongoDB aswell as working with git.
 
 **A litle about me**
 
