@@ -4,13 +4,13 @@
 
 Proficient in building end to end single-page apps with the following technologies:
 
-Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,TypeScript,SASS,express.js,socket.io aswell as working with git.
+Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,REST API,SASS,express.js,socket.io,TypeScript aswell as working with git.
 
 **A litle about me**
 
 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
-🏆 I recently built a clone of Trello, check it out, it has everything! Jello.
+🏆 I recently built a clone of Trello, check it out, it has everything! Jello https://jello-l37q.onrender.com/.
 
 📫 You can reach me at ro6596@gmail.com
 
