@@ -14,7 +14,7 @@ Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,TypeScript,SASS,express.js,socket.io
 
 📫 You can reach me at ro6596@gmail.com
 
-💙 Fun fact: I love cooking, running, and reading 🎨
+💙 Fun fact: I love cooking, running, and history 🎨
 
 Connect with me:
 https://www.linkedin.com/in/roni-mazor/
