@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there my name is Roni Mazor 👋
+
+a Junior Full-stack/Frontend developer,on my way to my first job.
+Proficient in building single-page apps with the following technologies:
+
 
 
 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
@@ -13,6 +17,6 @@
 
 Connect with me:
 https://www.linkedin.com/in/roni-mazor/
-
+https://www.typescriptlang.org/
 Languages and Tools:
 babel css3 express git html5 javascript jest mongodb nodejs postman react redux sass typescript
