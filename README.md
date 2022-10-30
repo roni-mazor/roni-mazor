@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**roni-mazor/roni-mazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌴 Proficient in building single-page apps .
+
+🏆 I recently built a clone of Trello, check it out, it has everything! Jello.
+
+📫 You can reach me at ro6596@gmail.com
+
+💙 Fun fact: I love cooking, running, and reading 🎨
+
+Connect with me:
+https://www.linkedin.com/in/roni-mazor/
+
+Languages and Tools:
+babel css3 express git html5 javascript jest mongodb nodejs postman react redux sass typescript
