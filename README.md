@@ -1,13 +1,12 @@
 ### Hi there my name is Roni Mazor 👋
 
-a Junior Full-stack/Frontend developer,on my way to my first job.
-Proficient in building single-page apps with the following technologies:
+**a Junior Full-stack/Frontend developer,on my way to my first job.**
+Proficient in building end to end single-page apps with the following technologies:
+Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,TypeScript,SASS,express.js,socket.io aswell as working with git.
 
-
+**A litle about me**
 
 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
-
-🌴 Proficient in building single-page apps .
 
 🏆 I recently built a clone of Trello, check it out, it has everything! Jello.
 
@@ -17,6 +16,4 @@ Proficient in building single-page apps with the following technologies:
 
 Connect with me:
 https://www.linkedin.com/in/roni-mazor/
-https://www.typescriptlang.org/
-Languages and Tools:
-babel css3 express git html5 javascript jest mongodb nodejs postman react redux sass typescript
+
