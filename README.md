@@ -10,7 +10,7 @@ Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,REST API,SASS,express.js,socket.io,M
 
 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
 
-🏆 I recently built a clone of Trello, check it out, it has everything! Jello https://jello-l37q.onrender.com/.
+🏆 I recently built a clone of Sptoify!!,check it out. Slotify https://slotify.onrender.com/.
 
 📫 You can reach me at ro6596@gmail.com
 
