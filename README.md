@@ -6,6 +6,8 @@ Proficient in building end to end single-page apps with the following technologi
 
 Javascript,CSS,HTML,React.js,Redux,Vue,Vuex,REST API,SASS,express.js,socket.io,MongoDB aswell as working with git.
 
+currently learning Next.js,and my next learning goals are learning NestJs and to attempt a puppeter project.
+
 **A litle about me**
 
 🧲 A people's person and a tech lover. Autodidact, ambitious, and a team player!
